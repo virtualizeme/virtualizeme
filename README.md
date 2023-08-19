@@ -4,7 +4,7 @@ I'm passionate about technology, especially when it comes to virtualization and 
 
 🔗 **Find me elsewhere**
 - [GitHub](https://github.com/virtualizeme)
-- [YouTube](https://www.youtube.com/virtualizeme)
+- [YouTube](https://www.youtube.com/@virtualizeMe)
 
 💼 **Skills and Tools**
 - **Virtualization**: VMware
