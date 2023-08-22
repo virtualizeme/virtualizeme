@@ -9,6 +9,7 @@ I'm passionate about technology, especially when it comes to virtualization and 
 💼 **Skills and Tools**
 - **Virtualization**: VMware
 - **Cloud**: Apache Cloudstack
+- **Kubernetes**: K8S basics implement on Cloudstack
 - **Automation**: Terraform, PowerCLI through the power-actions tool, Ansible basics
 
 Thank you for visiting my profile! Feel free to follow my projects and subscribe to my YouTube channel where I share my knowledge and experiences.
